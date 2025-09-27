@@ -13,7 +13,7 @@ export default function Info () {
                 <h1>Vilorshini Ramsamy</h1>
                 <h2>Frontend Developer</h2>
                 <p>
-                    <a href="https://github.com/Vilorshini0">github.com/Vilorshini0</a>
+                    <a href="https://github.com/Vilorshini0"> github.com/Vilorshini0</a>
                 </p>
             </header>
 
