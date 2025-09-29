@@ -2,7 +2,7 @@ export default function Intrerest() {
     return (
         <section className="interest">
             <h3>Interests</h3>
-            <p>Food expert. Music scholar. Reader. Internet fanatic. Bacon buff. Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.</p>
+            <p>Food tasting, Arts, Photography, Fitness & wellness, Board games & puzzles, Technology & design trends</p>
         </section>
     )
 }

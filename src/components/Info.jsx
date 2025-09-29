@@ -18,15 +18,15 @@ export default function Info () {
             </header>
 
             <section className="info--links">
-                <button className="btn email" target="_blank" onClick={() => window.location.href = "mailto:ramsamyvilorshini@gmail.com"} >
+                <a className="email" target="_blank" href="mailto:ramsamyvilorshini@gmail.com" >
                     <img src={email} alt="" />
                     <span>Email</span>
-                </button>
+                </a>
 
-                <button className="btn linkedin" target="_blank" onClick={() => window.location.href = ("https://www.linkedin.com/in/vilorshiniramsamy/", "_blank")}>
+                <a className="linkedin" target="_blank" href="https://www.linkedin.com/in/vilorshiniramsamy/" rel="noopener noreferrer">
                     <img src={linkedin} alt="" />
                     <span>LinkedIn</span>
-                </button>
+                </a>
             </section>
         </section>
     )
