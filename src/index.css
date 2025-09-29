@@ -165,16 +165,19 @@
         color: #747bff;
     }
 
-    button {
-        background-color: #f9f9f9;
-    }
-
     #fullcard {
         background-color: #F5F5F5;
         color: #4A4E74;
 
-        .info--links .email {
-            border: 1px solid #4A4E74;
+        .info--links {
+            .email {
+                border: 1px solid #4A4E74;
+            }
+
+            .linkedin {
+                color: #FFFFFF;
+            }
+
         }
 
         h2 {
