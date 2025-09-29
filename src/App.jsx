@@ -8,10 +8,10 @@ function App() {
     return (
         <>
             <section id="fullcard">
-            <Info />
-            <About />
-            <Interest />
-            <Footer />
+                <Info />
+                <About />
+                <Interest />
+                <Footer />
             </section>
         </>
     )

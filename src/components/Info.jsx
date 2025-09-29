@@ -13,12 +13,12 @@ export default function Info () {
                 <h1>Vilorshini Ramsamy</h1>
                 <h2>Frontend Developer</h2>
                 <p>
-                    <a href="https://github.com/Vilorshini0"> github.com/Vilorshini0</a>
+                    <a href="https://github.com/Vilorshini0" target="_blank" rel="noopener noreferrer"> github.com/Vilorshini0</a>
                 </p>
             </header>
 
-            <section className="info--links">
-                <a className="email" target="_blank" href="mailto:ramsamyvilorshini@gmail.com" >
+            <nav className="info--links">
+                <a className="email" target="_blank" href="mailto:ramsamyvilorshini@gmail.com">
                     <img src={email} alt="" />
                     <span>Email</span>
                 </a>
@@ -27,7 +27,7 @@ export default function Info () {
                     <img src={linkedin} alt="" />
                     <span>LinkedIn</span>
                 </a>
-            </section>
+            </nav>
         </section>
     )
 }

@@ -2,7 +2,7 @@ import github from '../assets/github.png';
 
 export default function Footer() {
     return (
-        <section id="footer">
+        <footer id="footer">
             <ul>
                 <li>
                     <a href="https://github.com/Vilorshini0" target="_blank">
@@ -10,6 +10,6 @@ export default function Footer() {
                     </a>
                 </li>
             </ul>
-        </section>
+        </footer>
     )
 }
