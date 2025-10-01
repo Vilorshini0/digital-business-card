@@ -1,4 +1,4 @@
-import './App.css'
+import './App.scss'
 import Info from './components/Info'
 import About from './components/About'
 import Interest from './components/Interest'
